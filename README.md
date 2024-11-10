@@ -5,7 +5,6 @@
 ## Description 
 
 
-Here’s a refined version of your description:
 
 Buying a car is never an easy task, especially when it comes to purchasing a used one. There are many factors to consider, and in some regions, used car options are limited and prices can be high. To explore this issue, I conducted a survey using a dataset of used car listings scraped from Craigslist.
 
