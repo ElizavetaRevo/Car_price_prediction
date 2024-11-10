@@ -16,7 +16,8 @@ b) Merged and standardized column values to reduce outliers.
 c) Removed inconclusive columns.
 d) Detected and corrected data entry errors.
 
-Additionally, I analyzed the geographical distribution of used cars and their characteristics in Tableau. You can view the interactive dashboard here:https://public.tableau.com/app/profile/elizaveta.sokolova/viz/Usedcarsproject/Dashboard1.
+Additionally, I analyzed the geographical distribution of used cars and their characteristics in Tableau. You can view the interactive dashboard here:
+https://public.tableau.com/app/profile/elizaveta.sokolova/viz/Usedcarsproject/Dashboard1.
 
 ## Import Data
 
